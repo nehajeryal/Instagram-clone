@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Link to my instagram clone app : https://insta1clone.web.app/
 
 
-Link on netlify : dreamy-swartz-neha-213965.netlify.app
+Link on netlify : https://dreamy-swartz-neha-213965.netlify.app
 
 
 
